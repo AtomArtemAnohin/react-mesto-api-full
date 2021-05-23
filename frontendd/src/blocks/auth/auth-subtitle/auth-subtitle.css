@@ -1,0 +1,15 @@
+.auth-subtitle {
+   font-family: 'Inter', Arial, sans-serif;
+   font-style: normal;
+   font-weight: 400;
+   font-size: 14px;
+   line-height: 17px;
+   color: white;
+   text-align: center;
+}
+@media (max-width: 320px) {
+   .auth-subtitle {
+       font-size: 18px;
+       line-height: 22px;
+   }
+   }

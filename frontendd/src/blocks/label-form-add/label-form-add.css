@@ -1,0 +1,9 @@
+.label-form-add {
+    
+    position: relative;
+    margin-bottom: 35px;
+
+}
+.label-form-add:last-of-type {
+    margin-bottom: 45px;
+}

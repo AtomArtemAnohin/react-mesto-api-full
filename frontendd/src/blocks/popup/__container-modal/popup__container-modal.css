@@ -1,0 +1,16 @@
+.popup__container-modal {
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    border-radius: 10px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 90px;
+    height: fit-content;
+   
+}
+@media (max-width: 320px) {
+    .popup__container-modal {
+        margin-top: 136px;
+    }
+    }

@@ -1,0 +1,18 @@
+.footer {
+ font-family: Inter, Arial, sans-serif;
+ font-style: normal;
+ font-weight: normal;
+ max-width: 880px;
+ margin-top: 66px;
+ margin-bottom: 0px;
+ color: #545454;
+}
+p {
+    margin-bottom: 0px;
+}
+
+@media (max-width: 360px) {
+    .footer {
+        margin: 36px 19px 36px 19px;
+    }
+}

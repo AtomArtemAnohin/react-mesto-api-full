@@ -1,0 +1,17 @@
+.auth__button {
+   height: 50px;
+   margin-bottom: 15px;
+   border: 0;
+   background-color: #fff;
+   color: #000;
+   font-size: 16px;
+   border-radius: 2px;
+   cursor: pointer;
+   margin-top: 216px;
+ }
+ 
+ @media screen and (min-width: 600px) and (min-height: 400px) {
+   .auth__button {
+     font-size: 18px;
+   }
+ }

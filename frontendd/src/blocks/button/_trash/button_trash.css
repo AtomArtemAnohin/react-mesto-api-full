@@ -1,0 +1,13 @@
+.button_trash {
+margin-left: 255px;
+margin-top: 8px;
+
+position: absolute;
+background-image: url(../../../images/Trash.svg);
+width: 18px;
+height: 19.3px;
+}
+
+.button_trash:hover {
+    opacity: 0.6;
+}
