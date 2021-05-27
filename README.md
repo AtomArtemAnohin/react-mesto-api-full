@@ -1,8 +1,8 @@
 # react-mesto-api-full  
 Репозиторий для приложения проекта `Mesto`, включающий фронтенд и бэкенд части приложения со следующими возможностями: авторизации и регистрации пользователей, операции с карточками и пользователями. Бэкенд расположите в директории `backend/`, а фронтенд - в `frontend/`. 
   
-## (https://Anohin.students.nomoredomains.icu)
+## (Anohin.students.nomoredomains.icu)
 
-## (https://api.anohin.students.nomoredomains.icu)
+## (api.anohin.students.nomoredomains.icu)
 
 ## IP адрес сервера 84.201.131.93
